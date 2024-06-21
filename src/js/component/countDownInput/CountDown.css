@@ -1,0 +1,19 @@
+.widthStyle{
+    width: 500px;
+}
+
+.buttonStyle{
+    width: 155px;
+}
+
+.invalid{
+    box-shadow: 0 0 0 0.2rem red;
+}
+
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
